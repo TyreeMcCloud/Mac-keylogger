@@ -1,6 +1,3 @@
-A one-page note file briefly explains the project, input, output,
- and how to run the code (The grader needs to run your code)
-
 Description: key logger for Mac's that records keystrokes to a log file 
             from and onto the Mac the program is running on.
 Input: keystrokes
